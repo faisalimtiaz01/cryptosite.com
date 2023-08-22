@@ -1,0 +1,5 @@
+.original-transform{
+    transform-origin: 45% 81%;
+    transform: rotate(-1deg) translate(140px, 45px) scale(0.67, 0.9) skew(-69deg, 25deg);
+    color: rgba(128, 128, 128, 0.678);
+}
